@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-ggmq60.indocuan.space/sitemap.xml
